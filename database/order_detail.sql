@@ -1,0 +1,10 @@
+INSERT INTO `order_detail` VALUES (29, '雪花啤酒', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/bf8cbfc1-04d2-40e8-9826-061ee41ab87c.png', 17, 48, NULL, NULL, 1, 4.00);
+INSERT INTO `order_detail` VALUES (30, '北冰洋', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/4451d4be-89a2-4939-9c69-3a87151cb979.png', 17, 47, NULL, NULL, 2, 4.00);
+INSERT INTO `order_detail` VALUES (31, '雪花啤酒', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/bf8cbfc1-04d2-40e8-9826-061ee41ab87c.png', 18, 48, NULL, NULL, 1, 4.00);
+INSERT INTO `order_detail` VALUES (32, '北冰洋', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/4451d4be-89a2-4939-9c69-3a87151cb979.png', 18, 47, NULL, NULL, 2, 4.00);
+INSERT INTO `order_detail` VALUES (33, '北冰洋', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/4451d4be-89a2-4939-9c69-3a87151cb979.png', 19, 47, NULL, NULL, 1, 4.00);
+INSERT INTO `order_detail` VALUES (34, '挖金矿大健康', NULL, 19, NULL, 33, NULL, 1, 123.00);
+INSERT INTO `order_detail` VALUES (35, '北冰洋', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/4451d4be-89a2-4939-9c69-3a87151cb979.png', 20, 47, NULL, NULL, 1, 4.00);
+INSERT INTO `order_detail` VALUES (36, '挖金矿大健康', NULL, 20, NULL, 33, NULL, 1, 123.00);
+INSERT INTO `order_detail` VALUES (37, '北冰洋', 'https://sky-itcast.oss-cn-beijing.aliyuncs.com/4451d4be-89a2-4939-9c69-3a87151cb979.png', 21, 47, NULL, NULL, 1, 4.00);
+INSERT INTO `order_detail` VALUES (38, '挖金矿大健康', NULL, 21, NULL, 33, NULL, 1, 123.00);

@@ -1,0 +1,28 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: sky_take_out
+    username: root
+    password: root
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tPeuNEqfEv8FjWSbSxh
+    access-key-secret: nFwotFS7o05vy6VkLPooGP45yJbyNS
+    bucket-name: skybucketoss
+    upload-path: dish/
+  redis:
+    host: localhost
+    port: 6379
+    database: 10
+  wechat:
+    appid: wxee3110d9ddfa6c12
+    secret: cd1316f4647b11b1ac095500a57a762e
+  excel:
+    filePath: C:\Users\Administrator\Desktop\学习资料\学习笔记\项目笔记\苍穹外卖\1、黑马程序员Java项目《苍穹外卖》企业级开发实战\资料\day12\运营数据报表模板.xlsx
+    sheet:
+      Sheet1,
+      sheet2,
+      sheet3,
+      sheet4
